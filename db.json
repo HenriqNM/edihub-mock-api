@@ -1,0 +1,9 @@
+{
+ "certames": [
+ { "id": 1, "nome": "UERJ", "tipo": "vestibular", "evento": "Isencao", "prazo": "2026-11-20" },
+ { "id": 2, "nome": "UFRJ", "tipo": "vestibular", "evento": "Inscricao", "prazo": "2026-11-28" },
+ { "id": 3, "nome": "ENEM", "tipo": "vestibular", "evento": "Resultado", "prazo": "2027-01-16" },
+ { "id": 4, "nome": "EsPCEx", "tipo": "militar", "evento": "Inscricao", "prazo": "2026-11-18" },
+ { "id": 5, "nome": "IME", "tipo": "militar", "evento": "Inscricao", "prazo": "2026-12-02" }
+ ]
+}
